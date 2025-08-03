@@ -1,0 +1,16 @@
+country,region,happiness_score,gdp_per_capita,population_millions
+Denmark,Europe,7.6,60000,5.8
+Switzerland,Europe,7.5,83000,8.7
+Iceland,Europe,7.5,75000,0.37
+Finland,Europe,7.4,49000,5.5
+Norway,Europe,7.4,75000,5.4
+Singapore,Asia,7.2,65000,5.9
+Japan,Asia,6.9,40000,125.8
+South Korea,Asia,6.3,32000,51.8
+Thailand,Asia,6.4,7500,70.0
+Costa Rica,Americas,7.0,12000,5.1
+Canada,Americas,7.2,46000,38.2
+United States,Americas,6.9,63000,331.9
+Chile,Americas,6.2,15000,19.5
+Botswana,Africa,4.8,8000,2.4
+Morocco,Africa,5.2,3500,37.3
