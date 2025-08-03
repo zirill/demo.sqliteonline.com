@@ -1,0 +1,17 @@
+[
+  {"country": "Denmark", "region": "Europe", "happiness_score": 7.6, "gdp_per_capita": 60000, "population_millions": 5.8},
+  {"country": "Switzerland", "region": "Europe", "happiness_score": 7.5, "gdp_per_capita": 83000, "population_millions": 8.7},
+  {"country": "Iceland", "region": "Europe", "happiness_score": 7.5, "gdp_per_capita": 75000, "population_millions": 0.37},
+  {"country": "Finland", "region": "Europe", "happiness_score": 7.4, "gdp_per_capita": 49000, "population_millions": 5.5},
+  {"country": "Norway", "region": "Europe", "happiness_score": 7.4, "gdp_per_capita": 75000, "population_millions": 5.4},
+  {"country": "Singapore", "region": "Asia", "happiness_score": 7.2, "gdp_per_capita": 65000, "population_millions": 5.9},
+  {"country": "Japan", "region": "Asia", "happiness_score": 6.9, "gdp_per_capita": 40000, "population_millions": 125.8},
+  {"country": "South Korea", "region": "Asia", "happiness_score": 6.3, "gdp_per_capita": 32000, "population_millions": 51.8},
+  {"country": "Thailand", "region": "Asia", "happiness_score": 6.4, "gdp_per_capita": 7500, "population_millions": 70.0},
+  {"country": "Costa Rica", "region": "Americas", "happiness_score": 7.0, "gdp_per_capita": 12000, "population_millions": 5.1},
+  {"country": "Canada", "region": "Americas", "happiness_score": 7.2, "gdp_per_capita": 46000, "population_millions": 38.2},
+  {"country": "United States", "region": "Americas", "happiness_score": 6.9, "gdp_per_capita": 63000, "population_millions": 331.9},
+  {"country": "Chile", "region": "Americas", "happiness_score": 6.2, "gdp_per_capita": 15000, "population_millions": 19.5},
+  {"country": "Botswana", "region": "Africa", "happiness_score": 4.8, "gdp_per_capita": 8000, "population_millions": 2.4},
+  {"country": "Morocco", "region": "Africa", "happiness_score": 5.2, "gdp_per_capita": 3500, "population_millions": 37.3}
+]
